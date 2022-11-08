@@ -1,0 +1,36 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.row{
+    padding: 30px;
+    margin: 20px;
+}
+
+div.carousel-indicators{
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    background: white;
+}
+
+div.carousel-indicators button, div.carousel-indicators button.active{
+    float: left;
+    width: 30px;
+    height: 10px;
+    margin: 0;
+    border-radius: 20px;
+    border: 10px;
+    background: transparent;
+    }
+
+div.carousel-indicators button.active{
+    background: rgb(246, 246, 9);
+}
+
+.Smartphone p{
+    color: yellow;
+}
