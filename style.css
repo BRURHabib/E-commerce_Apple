@@ -31,6 +31,19 @@ div.carousel-indicators button.active{
     background: rgb(246, 246, 9);
 }
 
-.Smartphone p{
-    color: yellow;
+.card{
+    margin: 15px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px whitesmoke;
 }
+
+.card h5,.card p{
+    text-align: center;
+}
+.cat{
+    text-decoration-line: underline;
+    text-decoration-color: rgb(229, 198, 23);
+    text-decoration-thickness: 20px;
+}
+
