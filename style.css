@@ -42,8 +42,19 @@ div.carousel-indicators button.active{
     text-align: center;
 }
 .cat{
-    text-decoration-line: underline;
-    text-decoration-color: rgb(229, 198, 23);
-    text-decoration-thickness: 20px;
+    border: 3px solid rgb(246, 9, 116);
+    border-radius: 5px;
+    width: 100px;
 }
 
+.position{
+    margin-top: 150px;
+}
+
+.img2{
+    padding: 50px;
+}
+
+.category{
+    margin-bottom: -15px;
+}
